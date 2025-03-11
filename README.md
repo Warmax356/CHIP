@@ -1,5 +1,5 @@
 <img src="[https://ossmalta.eu/wp-content/uploads/2019/05/New2019_ossmalta_logo_4_Web_Reg.png](https://ossmalta.eu/)" alt="" align="center" width="225" height="150"><h1 align="center">The CHIP Archive & Collection of resources</h1>
-<p align="center"><a href="#project-description">Project Description</a> - <a href="#key-features">Key Features</a> - <a href="#technology-stack">Tech Stack</a> - <a href="#issues">Tech Stack</a></p>
+<p align="center"><a href="#project-description">Project Description</a> - <a href="#key-features">Key Features</a> - <a href="#technology-stack">Tech Stack</a> - <a href="#issues">issues</a></p>
 
 <img src="https://ossmalta.eu/wp-content/uploads/chip-and-pocketchip.webp" alt="" align="center" width="auto" height="auto">
 
