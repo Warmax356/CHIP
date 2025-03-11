@@ -1,7 +1,7 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/512px-YouTube_full-color_icon_%282017%29.svg.png" alt="" align="center" width="225" height="150"><h1 align="center">The CHIP Archive & Collection of resources</h1>
-<p align="center"><a href="#project-description">Project Description</a> - <a href="#key-features">Key Features</a> - <a href="#technology-stack">Tech Stack</a></p>
+<img src="[https://ossmalta.eu/wp-content/uploads/2019/05/New2019_ossmalta_logo_4_Web_Reg.png](https://ossmalta.eu/)" alt="" align="center" width="225" height="150"><h1 align="center">The CHIP Archive & Collection of resources</h1>
+<p align="center"><a href="#project-description">Project Description</a> - <a href="#key-features">Key Features</a> - <a href="#technology-stack">Tech Stack</a> - <a href="#issues">Tech Stack</a></p>
 
-<img src="https://repolaunch.vercel.app/assets/img/yt.webp" alt="" align="center" width="auto" height="auto">
+<img src="https://ossmalta.eu/wp-content/uploads/chip-and-pocketchip.webp" alt="" align="center" width="auto" height="auto">
 
 ## Project Description
 
