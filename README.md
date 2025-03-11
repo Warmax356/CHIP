@@ -13,7 +13,7 @@ We welcome you to contribute to this archival and maintance project for C.H.I.P 
 
 *   <a href="https://ossmalta.eu/the-chip-flash-collection/">OneDrive</a> copy available from OSSMalta for a global network availability
 *   <a href="https://bl.ossmalta.eu/chip_ntc/">Web Hosted</a> 7z compressed + file repo copy available from OSSMalta's Maltese server
-*   This GitHub Repo as another form of redundancy for availability
+*   This GitHub Repo as another form of redundancy for availability once we are able to upload the larger files
 
 ## Tech Stack
 
